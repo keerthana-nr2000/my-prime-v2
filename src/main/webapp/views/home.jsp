@@ -28,7 +28,7 @@
                 <div class="hero-buttons">
                     <a href="watch?id=1" class="btn btn-primary">
                         <i class="fas fa-play"></i>
-                        <span>Watch Now</span>
+                        <span>Watch Nowwwwww</span>
                     </a>
                     <a href="details?id=1" class="btn btn-secondary">
                         <i class="fas fa-info-circle"></i>
